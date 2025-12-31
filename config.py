@@ -14,7 +14,7 @@ class Config:
     pos_learnable = True
     optim_type = "adam"
     num_iter = 1
-    n_iter= 2
+    n_iter= 10
     wub = 0.2
     wlb = -0.2
     tau_m = 10.
